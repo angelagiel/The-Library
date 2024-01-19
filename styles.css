@@ -227,7 +227,7 @@ h2 {
 .book__img--wrapper {
     margin-bottom: 8px;
     border-radius: 4px;
-    overflow: hiddden;
+    overflow: hidden;
     display: flex;
 }
 
